@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Janirr
-- 👀 I’m interested in Python and automatization
-- 🌱 I’m currently learning advanced Python methods
+- 👀 I’m interested in Python, PHP and automatization
+- 🌱 I’m currently learning OOP and how to write clean code.
 - 📫 My e-mail: janir3g@gmail.com
 
 <!---
