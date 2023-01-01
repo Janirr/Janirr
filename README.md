@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Janirr
-- 👀 I’m interested in Python, PHP and automatization
+- 👀 I’m interested in Python, Java, PHP and F1
 - 🌱 I’m currently learning OOP and how to write clean code.
 - 📫 My e-mail: janir3g@gmail.com
 
