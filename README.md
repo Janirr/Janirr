@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Janirr
-- 👀 I’m interested in Python, Java, PHP and F1
-- 🌱 I’m currently learning OOP and how to write clean code.
+- 👀 I’m interested in Python, Java and Formula 1
+- 🌱 I’m currently learning OOP advanced methods, Spring Boot, AWS s3, REST API and GraphQL
 - 📫 My e-mail: janir3g@gmail.com
 
 <!---
