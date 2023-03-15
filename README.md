@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Janirr
 - 👀 I’m interested in Python, Java and Formula 1
-- 🌱 I’m currently learning OOP advanced methods, Spring Boot, AWS s3, REST API and GraphQL
+- 🌱 I’m currently learning Fullstack Development with Spring Boot and React.JS
 - 📫 My e-mail: janir3g@gmail.com
 
 <!---
