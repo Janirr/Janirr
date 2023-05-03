@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Janirr
 - 👀 I’m interested in Python, Java and Formula 1
-- 🌱 I’m currently working on TimeFinder app (in my repository)
+- 🌱 I’m currently working on TimeFinder app
 - 📫 My e-mail: janir3g@gmail.com
 
 <!---
