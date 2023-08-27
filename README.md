@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Janirr
-- 👀 I’m interested in Python, Java, Big Data and Formula 1
+- 👀 I’m interested in Java, Football and Formula 1
 - 🌱 I’m currently working on TimeFinder app
 - 📫 My e-mail: janir3g@gmail.com
 
