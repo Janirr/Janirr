@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Janirr
 - 👀 I’m interested in Java, Football and Formula 1
-- 🌱 I’m currently working as Junior Java Developer
+- 🌱 I’m currently working as FullStack Software Engineer
 - 📫 My e-mail: janir3g@gmail.com
 
 <!---
